@@ -1,14 +1,14 @@
 import os
 
-API_ID = API_ID = 28590119
+API_ID = API_ID = 28031075
 
-API_HASH = os.environ.get("API_HASH", "2494557bf21e6c5152f26070aa1a97c7")
+API_HASH = os.environ.get("API_HASH", "6443392317:6a309d42eda281416f798a554360e6a8")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6338695339:AAGOrn_9WovtN0NWV1vZVIMwKiFYgFx_XV4")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6443392317:AAFrtUcMDsuoFK4p1_JMkJgebF4m9hTILHI")
 
 PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
-OWNER = int(os.environ.get("OWNER", 6462391456))
+OWNER = int(os.environ.get("OWNER", 5829511291))
 
 LOG = -1002140062103
 
