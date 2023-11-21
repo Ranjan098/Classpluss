@@ -1,10 +1,10 @@
-import os
+limport os
 
 API_ID = API_ID = 12606917
 
 API_HASH = os.environ.get("API_HASH", "f25113b8c17dca6fa7abda53a86bd4f7")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6705040975:AAF2JquHwnfwXb0Ks_YzsBtCnSNjVwqWY0o")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6705040975:AAGXsx0NXsk3___GGR_ud1p4COXA8ZzBaCU")
 
 PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
